@@ -1,1 +1,1 @@
-Config for VIM.
+Config file for VIM.
